@@ -65,31 +65,57 @@ This project addresses these issues by creating a centralized, automated, and in
 <img width="1593" height="888" alt="Tableau Branch Dashboard" src="https://github.com/user-attachments/assets/510977ea-915f-48fd-b230-1b7ed54c9344" />
 <img width="1586" height="876" alt="Tableau Insurance Dashboard" src="https://github.com/user-attachments/assets/a2f78623-7af8-469b-8b48-de476e21f5d7" />
 ## 🔄 Project Workflow
-1.	Data Preparation (Excel)
+### 1.	Data Preparation (Excel)
+   
 o	Cleaned and transformed raw insurance and sales data
+
 o	Identified KPIs and reporting requirements
-2.	SQL Integration
+
+### 2.	SQL Integration
+   
 o	Loaded Excel data into a structured SQL database
+
 o	Applied normalization and relationships
-3.	Data Modeling
+
+### 3.	Data Modeling
+   
 o	Connected SQL database to Power BI and Tableau
+
 o	Built optimized data models for performance
-4.	Dashboard Development
+
+### 4.	Dashboard Development
+   
 o	Designed interactive dashboards with filters and drill-throughs
+
 o	Implemented trend analysis and KPI tracking
-5.	QA & Validation
+
+### 5.	QA & Validation
+   
 o	Verified dashboard metrics against source data
+
 o	Ensured alignment with business requirements
-## 📈 Key Business Impact
-•	Centralized insurance and sales performance data
 
-•	Improved visibility into branch and individual KPIs
+## 📈 Insights on Ahmedabad Branch Analysis
+•	The Branch has over-achieved the target of Renewal Budget but has under-achieved in both Cross-sell and New Budgets.
 
-•	Faster and more accurate decision-making
+•	Account Executive Gilbert has highest number of Invoices(57) while Abhinav has attended highest number of meetings(7).
 
-•	Identification of growth opportunities and risks
+•	Revenue by Qualify Opportunity was highest(₹ 5.9M), Negotiating stage was ₹ 900k and Purpose solution has least(₹ 60k).
 
-•	Scalable analytics framework for future enhancements
+•	Highest revenue in Open Oppurtunities was given by Employees Benefit Speciality(₹ 2.3M).
+
+## 📈 Insights on Insurance Analysis
+•	There are total of 5000 policies owned by 3184 distinct customers.
+
+•	The company has the total Claim amount of 251 Million Rupees.
+
+•	Approximately equal number of policies are Approved, Pending and Denied with Approved policies in lead.
+
+•	Company has tried equal distribution among policy types with Health policies leading marginally.
+
+•	Customers in their 20s have highest number of policies.
+
+•	Overall the policies are equally distributed and the company must work on shifting the trend line towards positive direction.
 ## 👤 Author
 Vikas L M
 

@@ -16,6 +16,8 @@ Insurance organizations often face challenges such as:
 •	Delayed reporting and missed growth opportunities
 
 This project addresses these issues by creating a centralized, automated, and interactive analytics solution.
+## Dataset
+This project uses following [Datasets](https://github.com/Vikaslm/Insurance-Analytics/tree/main/data) which are processed and merged to get [Excel](https://github.com/Vikaslm/Insurance-Analytics/blob/main/Excel/Insurance_analytics.xlsx) file.
 ## 📊 Key Performance Indicators (KPIs)
 ### Insurance KPIs
 •	Total Policies
@@ -57,13 +59,15 @@ This project addresses these issues by creating a centralized, automated, and in
 ## 🛠️ Tools & Technologies Used
 •	Excel – Data cleaning, preparation, and initial dashboarding
 <img width="1235" height="773" alt="Excel Branch Dashboard" src="https://github.com/user-attachments/assets/7b311e48-1c2d-4cac-8efb-53c11e1539eb" /><img width="1283" height="795" alt="Excel Insurance Dashboard" src="https://github.com/user-attachments/assets/ac1787e9-5d6b-4b73-bc4d-726edc8f134d" />
-•	SQL – Database design, normalization, and data modeling [Queries](https://github.com/Vikaslm/Insurance-Analytics/blob/main/Insurance%20Analytics.sql)
 
 •	Power BI – Interactive dashboards and advanced analytics
 <img width="1382" height="777" alt="PowerBi Branch Dashboard" src="https://github.com/user-attachments/assets/aea6f406-c520-4211-8ae2-5b34a7f4a1c1" /><img width="1384" height="780" alt="PowerBi Insurance Dashboard" src="https://github.com/user-attachments/assets/3c50f7ae-8489-4539-ad25-17f9e4647b07" />
-•	Tableau – Visual analytics and drill-down dashboards
+
+•	Tableau – Visual analytics and dashboards
 <img width="1593" height="888" alt="Tableau Branch Dashboard" src="https://github.com/user-attachments/assets/510977ea-915f-48fd-b230-1b7ed54c9344" />
 <img width="1586" height="876" alt="Tableau Insurance Dashboard" src="https://github.com/user-attachments/assets/a2f78623-7af8-469b-8b48-de476e21f5d7" />
+
+•	SQL – Database design, normalization, and data modeling [Queries](https://github.com/Vikaslm/Insurance-Analytics/blob/main/sql/Insurance%20Analytics.sql)
 ## 🔄 Project Workflow
 ### 1.	Data Preparation (Excel)
    
